@@ -20,6 +20,8 @@
 
 ## Pizza calzone - zawinięta w pieróg
 
+<img src="images/calzone.jpg" width = 300>
+
 |Lp.|Pizza:                                                |rozmiar: |30cm |50cm|60cm|
 |---|------------------------------------------------------|---------|-----|----|----|
 |1. |Kebab (sos poidorowy, ser, kebab, sos czosnokowy)     |         |30zł |55zł|65zł|
@@ -48,12 +50,15 @@
 
 ## Sałatki
 
+<img src="images/salad.jpg" width = 300>
+
 1. Cesar (sałata ,cebula, oliwa z olivwek, pomidor) - 15zł
 2. Grecka (sałata, cebula, oliwa z olivwek, pomidor, feta) - 20zł
 3. Hiszpańska (sałata, cebula, oliwa z olivwek, pomidor, oliwki, mozarella) - 25zł
 
 
 ## Sosy
+<img src="images/sauce.jpg" width = 300>
 
 1. Czosnkowy 5zł
 2. Pomidorowy 5zł
@@ -69,6 +74,8 @@
 3. Krewetki 10zł
 
 ## Napoje
+
+<img src="images/juice.jpg" width = 300>
 
 |Lp.|Nazwa:                                               |pojemność:|330ml|500ml|
 |---|-----------------------------------------------------|----------|-----|-----|
