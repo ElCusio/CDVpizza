@@ -60,6 +60,11 @@
 3. Barbeque 5zł
 4. Majonezowy 5zł
 
+## Dodatki
+1. Cukinia 10zł
+2. Karczochy 5zł
+3. Krewetki 10zł
+
 ## Napoje
 
 |Lp.|Nazwa:                                               |pojemność:|330ml|500ml|
