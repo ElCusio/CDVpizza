@@ -5,6 +5,8 @@ Jesteśmy w naszym rzemieośle artystami i odkrywcami.
 
 ## kierownik
 
+Jan Kowalski
+
 ## kucharz
 
 ## obsługa
