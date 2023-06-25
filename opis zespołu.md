@@ -15,4 +15,6 @@ Bartosz Nowak
 
 ## dostawca
 
+Adam Wysocki - najlepszy dostawca cebuli
+
 ## grafik
