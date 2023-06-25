@@ -9,6 +9,8 @@ Jan Kowalski
 
 ## kucharz
 
+Bartosz Nowak
+
 ## obsługa
 
 ## dostawca
